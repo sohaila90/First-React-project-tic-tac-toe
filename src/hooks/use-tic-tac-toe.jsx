@@ -23,7 +23,7 @@ const useTicTacToe = () => {
   };
 
   function getStatusMessage() {}
-
+  
   const resetGame = () => {};
 
   return { board, calculateWinner, handleClick, getStatusMessage, resetGame };
